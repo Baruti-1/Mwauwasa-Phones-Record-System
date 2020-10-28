@@ -1,0 +1,157 @@
+.role{
+	margin-left: 48px;
+}
+.mail{
+	margin-left: 32px;
+}
+.background{ 
+	/*border:5px solid green;*/
+	/*height: 50px;*/
+	background-image: url("../images/phone.png");
+}
+h1{
+	color: darkblue;
+}
+a{
+	color: whitesmoke;
+}
+.lnk{
+	color: green;
+}
+a:hover{
+	color: black;
+}
+.text2{
+	border-radius: 24px;
+	background: lightgreen;
+}
+.ml{
+	margin-left: 2%;
+	color: white;
+}
+
+.maji{
+	margin-top: 5%;
+}
+.position{
+	margin-top: 5%;
+	background-color: darkblue;
+	width: 600px;
+	height: 300px;
+	
+}
+.position{
+	margin-top: 8%;
+	margin-left: 30%;
+}
+.button{
+	margin-top: 1%;
+	margin-left: 27%;
+}
+.button2{
+	margin-left: 9%;
+	width: 45%;
+	background-color: green;
+}
+.btn1{
+	width: 52%;
+	background-color: green;
+}
+.btn2{
+	width: 52%;
+	background-color: green;
+}
+.btn3{
+	background-color: green;
+	width: 34%;
+}
+.center{
+	margin-left: 12%;
+	margin-bottom:5%;
+	float: left;
+}
+.maji2{
+	margin-left: 2%;
+	color: white;
+}
+.center2{
+	margin-left:20%;
+	margin-bottom:5%;
+	width: 5%;
+}
+.text{
+	margin-right: 20%;
+	text-decoration: underline;
+	float:right;
+	border-radius: 24px;
+	background: lightgreen;
+	box-shadow: 15px 15px 5px deepskyBlue;
+}
+.form{
+	margin-top: 5%;
+	margin-left: 25%;
+	text-shadow: 2px 1px green;
+
+}
+.maji3{
+	margin-left:5.2%
+}
+.imgfroat{
+	margin-left: 30%;
+	margin-bottom:5%;
+	width: 100%;
+	height: 200%;
+	float:right;	
+}
+.break{
+	float: left;
+
+}
+.f1{
+	margin-top: 143px;
+}
+.f2{
+	margin-top: 143px;
+}
+.f3{
+	margin-top: 92px;
+}
+.f4{
+	margin-top: 106px;
+}
+.lab{
+	margin-left: 5.4%;
+}
+.lab1{
+	margin-left: 5.8%;
+}
+.lab2{
+	margin-left: 1%;
+}
+.error{
+	font-size: 30px;
+	position: absolute;
+	top: 95px;
+	left: 485px;
+}
+.add{
+	margin-left: 20%;
+}
+.break2{
+	margin-left:400px;
+}
+.fit{
+	margin-left: 94px;
+}
+.fit2{
+	margin-left: 8px;
+}
+.fit3{
+	margin-left: 20px;
+}
+.head{
+	background:linear-gradient(deepskyBlue,green);
+}
+.down{
+	background:linear-gradient(deepskyBlue,green);
+}
